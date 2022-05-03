@@ -3,7 +3,7 @@
 </div>  
 
 - <h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
-<h3 align="center">Flutter development from Egypt</h3>
+<h3 align="center">Software Engineering and Flutter development from Egypt</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>   

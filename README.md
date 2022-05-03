@@ -2,6 +2,7 @@
 <h3 align="center">Flutter development from Egypt</h3>
 
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**
+- 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,6 @@
 - <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/ahmed-ibrahim-8a05001bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,7 +10,6 @@
   <a href="https://stackoverflow.com/users/17415474/أحمد-إبراهيم?tab=profile">
     <img src="https://img.shields.io/badge/stackoverflow-black?style=for-the-badge&logo=stackoverflow&logoColor=yellow" alt="Stackoverflow Badge"/>
   </a>
-</div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
 <h3 align="center">Flutter development from Egypt</h3>

@@ -1,13 +1,12 @@
+- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahim</h1>
 <h3 align="center">Flutter development from Egypt</h3>
 
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**
 - 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
-- <div id="header" align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2021/02/python-for-web-development.gif" width="300"/>
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
-  
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

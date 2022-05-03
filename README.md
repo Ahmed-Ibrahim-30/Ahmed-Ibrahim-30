@@ -35,6 +35,7 @@
  <h1 align="center"></h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ibrahim-30&" alt="ahmed-ibrahim-30" /></p>
  <h1 align="center"></h1>
+ <h3 align="center">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</h3>
  <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/d2/f8/9b/d2f89b10342b59df6eb905df0c112297.gif" width="300"/>
 </div>  

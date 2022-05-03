@@ -4,9 +4,6 @@
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**
 - 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
 - <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aalpha.net%2Fblog%2Fwhy-python-is-still-the-best-programming-language%2F&psig=AOvVaw0faczCSUm4ldEAK2dxtsP4&ust=1651687451007000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjlubX1w_cCFQAAAAAdAAAAABAD" width="100"/>
-</div>
-<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 

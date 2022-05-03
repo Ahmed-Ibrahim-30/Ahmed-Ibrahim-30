@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 - <div id="header" align="center">
-  <img src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="100"/>
+  <img src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="500"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>

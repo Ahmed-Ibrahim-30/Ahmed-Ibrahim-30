@@ -3,7 +3,7 @@
 
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**
 - 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
-- <div id="header" align="center">
+- <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 <div id="header" align="left">

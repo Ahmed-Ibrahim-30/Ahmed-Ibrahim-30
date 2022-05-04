@@ -25,7 +25,7 @@
 - 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
 <h1 align="center"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ibrahim-30&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ibrahim-30" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmed-ibrahim-30&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ibrahim-30" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -42,12 +42,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p><br>
  <h1 align="center"></h1>
 
-<p>&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p><br>
+<p align="center">&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p><br>
  <h1 align="center"></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p><br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ibrahim-30&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ahmed-ibrahim-30" /></p><br>
 
  <h1 align="center"></h1>
  <h3 align="center">أَمْ حَسِبْتُمْ أَن تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُم مَّثَلُ الَّذِينَ خَلَوْا مِن قَبْلِكُم ۖ مَّسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ</h3>

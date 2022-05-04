@@ -22,7 +22,7 @@
 </div>
 
 <h1 align="center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+5P&size=30&color=4DD421&lines=Hey!+I'm+Ahmed;Software+developer;And+Flutter+Developer" alt="Omar_Zenhom" />
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&color=4DD421&lines=Hey!+I'm+Ahmed;Software+developer;And+Flutter+Developer" alt="Omar_Zenhom" />
         </h1>
 
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**

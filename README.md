@@ -54,3 +54,7 @@
  <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/d2/f8/9b/d2f89b10342b59df6eb905df0c112297.gif" width="300"/>
 </div>  
+ <h1 align="center"></h1>
+<img align="center"
+            src="https://activity-graph.herokuapp.com/graph?username=ahmed-ibrahim-30&bg_color=000000&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true"
+            alt="yassinmoh" width="100%" margin="auto" />

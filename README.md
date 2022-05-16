@@ -28,7 +28,7 @@
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**
 - 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
 <h1 align="center"></h1>
-<h3 align="center">My Flutter Applications</h3>
+<h3 align="center" font-size: 1.17em font-weight: bold >My Flutter Applications</h3>
 <div id="badge" align="center">
    <a href="https://drive.google.com/file/d/1dLNb7cAbW9A5HbQHaCV7tQbSlIk7ux6A/view?usp=sharing">
     <img src="https://github.com/Ahmed-Ibrahim-30/Be-Muslim-App/blob/master/Images/img9.png?raw=true&logoColor=yellow" alt="Be Muslim Badge"/>

@@ -28,10 +28,10 @@
 - 📫You can contact me via **ahmedibrahim55518@gmail.com**
 - 📫You can contact me via **20190062@stud.fci-cu.edu.eg**
 <h1 align="center"></h1>
-<h1 align="center">"My Flutter Applications"</h1>
+<h3 align="center">My Flutter Applications</h3>
 <div id="badge" align="center">
    <a href="https://drive.google.com/file/d/1eFxN__td78O8ccGZiC23fFsW78ESH5Wz/view">
-    <img src="https://github.com/Ahmed-Ibrahim-30/Be-Muslim-App/blob/master/Images/img9.png?raw=true" alt="Be Muslim Badge"/>
+    <img src="https://github.com/Ahmed-Ibrahim-30/Be-Muslim-App/blob/master/Images/img9.png?raw=true&logoColor=yellow" alt="Be Muslim Badge"/>
   </a>
    <h1 align="center"></h1>
 </div>

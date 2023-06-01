@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/fc/7d/81/fc7d811c168d937d3eb5737d54395cef.gif" width="300"/>
 </div>  
 
-- <h1 align="center">Hi 👋, I'm Ahmed Ibrahim ^^</h1>
+- <h1 align="center">Hi 👋, I'm Ahmed Ibrahim </h1>
 <h3 align="center">Software Engineering and Flutter development from Egypt</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
